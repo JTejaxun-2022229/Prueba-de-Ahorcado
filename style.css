@@ -1,0 +1,9 @@
+.cuerpo{
+
+    background-color: rgb(233, 200, 92);
+    background-position: center;
+    place-items:inherit;
+    align-items: center;
+    text-align: center;
+    transform: translate(0%, +250%);
+}
