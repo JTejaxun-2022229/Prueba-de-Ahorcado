@@ -30,10 +30,38 @@
 
 }
 
+.textoTitulo{
+
+    color: bisque;
+}
+
+.textoIntento{
+
+    color: bisque;
+}
+
+.textoBoton{
+
+    color: rgb(235, 235, 235);
+}
+
+.textoBoton:hover{
+
+    color: blanchedalmond;
+}
+
 .input{
 
-    background-color: rgb(167, 167, 167);
-    size: 120px;
+    background-color: rgb(255, 254, 254);
+    border-color: rgb(255, 254, 254);
+    border: none;
+    width: 100px;
+    height: 25px;
+}
+
+input:hover{
+
+    border-color: rgb(255, 254, 254);
 }
 
 .boton{
@@ -41,6 +69,7 @@
     font-size: 30px;
     background-color: rgb(223, 185, 60);
     border-color: rgb(233, 200, 92);
+    
 }
 
 .boton:hover{
